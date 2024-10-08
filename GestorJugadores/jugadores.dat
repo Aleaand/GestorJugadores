@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jugadores>
+    <jugador>
+        <id>0</id>
+        <nick>fds</nick>
+        <experience>5</experience>
+        <lifeLevel>5</lifeLevel>
+        <coins>5</coins>
+    </jugador>
+</jugadores>
